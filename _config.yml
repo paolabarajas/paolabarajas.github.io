@@ -113,8 +113,8 @@ analytics:
 # Site Author
 author:
   name             : "Paola Barajas Barbosa"
-  avatar           : # path of avatar image, e.g. "C:/_MyGithubWebsite/Paola_barajas_pic.jpg"
-  bio              : "I am a biologist."
+  avatar           : "/assets/images/Paola_barajas_pic.jpg"
+  bio              : "I am a biologist"
   location         : "Leipzig"
   email            :
   links:
