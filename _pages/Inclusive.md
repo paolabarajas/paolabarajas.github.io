@@ -9,6 +9,8 @@ To drive real advancement, we must broaden our understanding across diverse cont
 
 My biodiversity research colleagues and I are preparing a publication addressing the inclusivity issues and we propose strategies to address them. 
 
-You can check the preprint here: Valdez J., Damasceno G., Oh R., Quintero Uribe L.C., Barajas Barbosa M.P., . & Sharma S. Advancing Inclusive Biodiversity Research: Strategies for Equitable Practices and Collective Impact. In press in *Conservation Biology*. [Preprint](https://doi.org/10.1590/SciELOPreprints.7623).
+You can check the preprint here:
+
+Valdez J., Damasceno G., Oh R., Quintero Uribe L.C., Barajas Barbosa M.P., Ferreira Amado T., Schmidt C., Fernandez M. & Sharma S. Advancing Inclusive Biodiversity Research: Strategies for Equitable Practices and Collective Impact. In press in *Conservation Biology*. [Preprint](https://doi.org/10.1590/SciELOPreprints.7623).
 
  
