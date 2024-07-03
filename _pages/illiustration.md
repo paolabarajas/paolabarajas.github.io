@@ -1,6 +1,5 @@
 ---
-title: "My illustrations"
-permalink: /illustrations/
+title: "Illustrations"
+permalink: /Illustrations/
 date: 2024-07-03T03:02:20+00:00
 ---
-![descrip](/assets/images/Coffe.jpg)  
