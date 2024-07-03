@@ -332,7 +332,7 @@ defaults:
       author_profile: true
       header:
         image: /assets/images/Orchid3.jpeg
-        image_description: "A water colour frog by P. Barajas"
+        image_description: "A water colour frog by P. Barajas" 
   
 
   
