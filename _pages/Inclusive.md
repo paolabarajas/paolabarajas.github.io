@@ -3,7 +3,7 @@ title: "Inclusive biodiversity science"
 permalink: /Inclusive/
 date: 2024-07-03T03:02:20+00:00
 ---
-Biodiversity research is very important for tackling the global biodiversity crisis we are facing today. Yet, our field struggles with inclusivity challenges, often neglecting or not recognizing enough local expertise from economically disadvantaged, biodiversity-rich regions. This oversight hinders comprehensive progress and tends to undervalue diverse perspectives.
+Biodiversity research plays a crucial role in addressing today's global biodiversity crisis. But, our field faces significant inclusivity challenges, often overlooking or insufficiently recognizing local expertise from economically disadvantaged, biodiversity-rich regions. This oversight hinders comprehensive progress and diminishes the value of diverse perspectives.
 
 To drive real advancement, we must broaden our understanding across diverse contexts and foster meaningful collaborations that amplify the diverse voices of local researchers from such biodiverse regions. Collaboration is a cornerstone in biodiversity research, necessitating improved equitable practices. This means that we need to cultivate environments of open communication and mutual respect, as well as address our own unconscious biases and disadvantageous cultural and historical legacies. 
 
