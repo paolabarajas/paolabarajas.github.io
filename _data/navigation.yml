@@ -6,8 +6,6 @@ main:
     url: /Inclusive/
   - title: "Publications"
     url: /publications/
-  - title: "My Illustrations"
-    url: /illustrations/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Posts"
