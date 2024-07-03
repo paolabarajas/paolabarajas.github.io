@@ -3,9 +3,6 @@ title: "About me"
 permalink: /
 date: 2024-06-10T03:02:20+00:00
 ---
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to HAHA
-potential site visitors. It might say something like this:
-> Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
-...or something like this:
-> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the
-Gotham community.
+I am a Colombian Biologist. I studied biology in Bogotá and moved to Germany to pursue a Master's in Geoecology. At Göttingen University, I became Dr.rer.nat (aka Ph.D.) focusing my research on plant functional ecology, exploring the influences of evolution and biogeography on the form and function of plant biodiversity.
+Currently, I am a postdoctoral researcher at the Biodiversity Synthesis group at iDiv, Germany. My research interests revolve around the spatial and temporal dynamics of biodiversity -mainly I work with plants and birds- with a focus on identifying what is causing current changes in biodiversity.
+I am particularly motivated to build bilateral research capacity in Latin America and other megadiverse regions that are underrepresented in international biodiversity research.
