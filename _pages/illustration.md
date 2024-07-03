@@ -17,4 +17,3 @@ La laurisilva -aquarell and color pensils-
 
 La Ohi'a lehua,*Metrosideros polymorpha* -aquarell-
 ![Metrosideros](/assets/images/metro.jpg) 
-
