@@ -1,5 +1,5 @@
 ---
-title: "My Publications"
+title: "Publications"
 permalink: /publications/
 date: 2024-07-03T03:02:20+00:00
 ---
